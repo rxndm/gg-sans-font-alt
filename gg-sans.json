@@ -1,0 +1,17 @@
+{
+  "spec": 1,
+  "name": "gg-sans-alt",
+  "previewText": "gg-sans-alt",
+  "main": {
+    "ggsans-Bold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-bold-italic.ttf",
+    "ggsans-ExtraBold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-extrabold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-extrabold-italic.ttf",
+    "ggsans-Medium": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-normal.ttf",
+    "ggsans-MediumItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-normal-italic.ttf",
+    "ggsans-Normal": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-normal.ttf",
+    "ggsans-NormalItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-normal-italic.ttf",
+    "ggsans-Semibold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-semibold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-semibold-italic.ttf"
+  }
+}
