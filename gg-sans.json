@@ -1,8 +1,9 @@
 {
   "spec": 1,
-  "name": "gg-sans-alt",
+  "name": "gg-sans-a",
   "previewText": "gg-sans-alt",
   "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-extrabold.ttf",
     "ggsans-Bold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-bold.ttf",
     "ggsans-BoldItalic": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-bold-italic.ttf",
     "ggsans-ExtraBold": "https://github.com/rxndm/gg-sans-font-alt/raw/refs/heads/main/gg-sans-extrabold.ttf",
